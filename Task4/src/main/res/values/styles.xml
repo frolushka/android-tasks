@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Dialog.Alert">
+        <!-- Customize your theme here. -->
+
+        <item name="colorPrimary">#820333</item>
+        <item name="colorPrimaryDark">#2E112D</item>
+        <item name="colorAccent">#F0433A</item>
+        <item name="android:background">#820333</item>
+        <item name="android:textColor">#A0A0A0</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:typeface">monospace</item>
+
+    </style>
+</resources>
